@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hi there, I'm Faranak 👋
 
-<!--
-**itsFaranak/itsFaranak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer | AI & Nature Enthusiast**
 
-Here are some ideas to get you started:
+Bridging the gap between nature and technology - a water engineering professional transitioning into tech with passion for programming and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+- 🎓 Water Engineering Graduate exploring the world of technology
+- 🌱 Currently learning **Python** and diving into **Artificial Intelligence**
+- 💡 Passionate about solving environmental challenges through technology
+- 🌍 Multilingual communicator connecting across cultures
+- 🔭 Seeking opportunities where technology meets environmental sustainability
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- **Python** (Currently mastering)
+- Exploring data science and AI libraries
+
+### Areas of Interest
+- Machine Learning & Artificial Intelligence
+- Environmental Data Analysis
+- Sustainable Technology Solutions
+- Python Development
+
+---
+
+## 🌐 Language Skills
+
+- **Persian** (Native)
+- **Turkish** (Fluent) 
+- **Korean** (Fluent)
+- **English** (Fluent)
+
+---
+
+## 📚 Currently Learning
+
+- Python Programming
+- Machine Learning Fundamentals
+- AI and Data Science Concepts
+- Environmental Informatics
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: faranaknikad@gmail.com
+- 🌟 GitHub: [itsFaranak]
+
+---
+
+## 🎨 Personal Interests
+
+- Nature & Environmental Conservation
+- Cross-cultural Communication
+- Technology Innovation
+- Continuous Learning & Skill Development
